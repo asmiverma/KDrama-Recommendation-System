@@ -55,3 +55,7 @@ While the current implementation uses TF-IDF for its simplicity and interpretabi
 
 ## Conclusion
 This project demonstrates a practical, interpretable approach to content-based recommendation using classical NLP techniques. By leveraging TF-IDF to analyze narrative and thematic elements of K-Dramas, it provides users with personalized, relevant recommendations in an accessible web application. It serves as a strong foundation for exploring more advanced recommendation strategies in the future.
+
+## Contact
+This project is just for learing purposes, if there is any error, please contact me at:
+Email: asmiasmiverma@gmail.com
