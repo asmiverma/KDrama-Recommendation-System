@@ -43,6 +43,8 @@ Features include:
 * Synopsis snippet
 * Poster image loaded via URL
 
+![image](https://github.com/user-attachments/assets/069c67db-e0fc-491a-bf3b-1f17d9da82dd)
+
 ## Requirements
 * Python 3.8 or higher
 * pandas
