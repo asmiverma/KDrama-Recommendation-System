@@ -1,6 +1,6 @@
 # K-Drama Recommender System
 
-Portfolio-ready content-based recommendation project for Korean dramas, built with a complete data-science workflow: EDA, feature engineering, model comparison, evaluation, and deployment in Streamlit.
+Content-based recommendation project for Korean dramas, built with a complete workflow: EDA, feature engineering, model comparison, evaluation, and deployment in Streamlit.
 
 ## Project Overview
 
@@ -66,7 +66,7 @@ Metrics reported:
 - Recall@K
 - Mean Reciprocal Rank (MRR)
 
-This makes model selection more objective and recruiter-friendly.
+This makes model selection more objective and easier to compare.
 
 ## Visualization
 
@@ -90,6 +90,16 @@ The Streamlit app supports:
 - Model switch (TF-IDF vs Sentence Transformer)
 - Poster display
 - Similarity score display
+
+## App Preview
+
+### Home Screen
+
+![Home Screen](assets/1.png)
+
+### Recommendation Results
+
+![Recommendation Results](assets/2.png)
 
 ## Tech Stack
 
